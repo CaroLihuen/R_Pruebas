@@ -13,3 +13,19 @@ vec_1 <- c(13, 20.5, 18, 12.5, 15,  )
 #lubridate => podes ver fechas y horas
 #today marca la fecha actual.
 today()
+
+#Operaradores matemáticos:
+#   + , - , * , / 
+
+#Operadores lógicos: 
+# & o &&  => AND
+# | o || => OR
+# ! => NOT
+
+#Condicionales
+# if(){}
+# else(){}
+# else if(){}
+
+# instalar paquetes con => install.packages()
+# Cargar paquetes con => library(paquete)
