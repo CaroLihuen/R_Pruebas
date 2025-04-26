@@ -36,3 +36,15 @@ today()
 
 # instalar paquetes con => install.packages("")
 # Cargar paquetes con => library("paquete")
+
+#Paquete tidyverse: modulos esenciales para analisis de datos:
+# - ggplot2 => visualización de datos especialmente diagramas.
+# - dplyr => para manipulación de datos. 
+# - tidyr => para limpieza de datos y para generar datos ordenados. Funciona con datos en formato largos y en formato anchos. 
+# - readr => para importar datos.
+
+# Pipes (canalizaciones) => es una herramienta en R para expresar una secuencia de varias operaciones.
+# sería algo similar a una función anidada que realiza una acción especifica. 
+# se representa con => %>%
+# se agrega una sangría para reconocer que es un pipes
+
