@@ -1,0 +1,18 @@
+---
+title: "R markdown Intro"
+output: html_document
+date: "2025-03-05"
+---
+
+## Titulo: Mardown Documento de R
+Este es un documento de prueba.
+En estos archivos de *R* hay un resumen de cosas **básicas** para su uso.
+Referencia en el archivo de <https://github.com/CaroLihuen/R_Pruebas/blob/main/rMarkdown.R> 
+* Aquí vas a RStudio aqui[link](https://posit.cloud/) ,no hay que olvidarse de registrarse. 
+* Código de prueba: 
+```{r cars}
+summary(cars)
+```
+* ![R](https://edteam-media.s3.amazonaws.com/infographics/original/90bdd34b-f78f-4498-b8f1-21162b15eac7.png)
+
+
